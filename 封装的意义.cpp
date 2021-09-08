@@ -26,7 +26,8 @@ private:
 	int Age;//只读
 	string Lover;//只写
 
-};
+}; 
+
 int main() {
 	Person p1;
 	p1.setName("张三");
